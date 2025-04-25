@@ -1,2 +1,1 @@
-This is my first ever project
-Building a recipe website
+This is a Food Recipe website project
